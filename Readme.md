@@ -1,11 +1,11 @@
 
 <img  align="right" width="96px" style="margin-top:-20px" src="https://i.ibb.co/F3c8qbV/metade.png">
 
+<div align=center>
 
 # Hi! My name is Joice Rodrigues.
 <br><br> 
 
-<div align=center>
 
 ## 📚 Formação 🔝
 Estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Araras
