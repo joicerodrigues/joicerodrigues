@@ -52,7 +52,7 @@ Estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Araras
 </div>
 <br>
 
-![snake gif](https://github.com/joicerodrigues/joicerodrigues/blob/output/github-contribution-grid-snake.gif)
+![](https://github.com/joicerodrigues/joicerodrigues/blob/output/github-contribution-grid-snake.gif)
 
 
 </div>
