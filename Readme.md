@@ -1,15 +1,20 @@
 
-<img  align="right" width="96px" style="margin-top:-20px" src="https://i.ibb.co/F3c8qbV/metade.png">
-
 <div align=center>
 
 # Hi! My name is Joice Rodrigues.
-<br><br> 
+<br>
 
+
+<img  align="right" width="180px" style="margin-top:-20px" src="https://i.ibb.co/F3c8qbV/metade.png">
+
+## 🔍 Sobre mim 🔝
+Tenho 20 anos, moro em Leme/SP e sou apaixonada por programação e felinos! Sou iniciante no universo da programação, gosto tanto do Front-End quanto do Back-End e quanto mais eu aprendo e passo raiva, mais eu amo esse novo mundo! ❤
+<br>
 
 ## 📚 Formação 🔝
 Estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Araras
 <br>
+<br> 
 
 ## 🌱 Estou aprendendo 🔝
 <div style="display: flex">
@@ -47,6 +52,7 @@ Estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Araras
 </div>
 <br>
 
-![](https://github.com/joicerodrigues/joicerodrigues/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joicerodrigues/joicerodrigues/blob/output/github-contribution-grid-snake.gif)
+
 
 </div>
