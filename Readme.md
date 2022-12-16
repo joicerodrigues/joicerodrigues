@@ -14,20 +14,20 @@ Tenho 20 anos, moro em Leme/SP e sou apaixonada por programação e felinos! Sou
 ## 📚 Formação 🔝
 Estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Araras
 <br>
+Cursei ETIM Técnico de informática na ETEC de Leme
+<br>
 <br> 
 
 ## 🌱 Estou aprendendo 🔝
 <div style="display: flex">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
           
-          
-          
-          
-</div>        
+</div>    
+   
 <br>
 
 ## 🌳 Possuo conhecimento em 🔝
@@ -38,15 +38,20 @@ Estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Araras
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" widht="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" widht="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" widht="40" height="40"  />
-</div>             
-  <br>
- 
- <div> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
+</div>   
+<br>
    <a href="https://github.com/joicerodrigues"> 
    <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=joicerodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicerodrigues&layout=compact&langs_count=7&theme=tokyonight" /> 
- </div> 
+ 
  <br> 
+  <br>
+ <br> 
+  <br>
 
 ## 📫 Contatos 🔝
 
